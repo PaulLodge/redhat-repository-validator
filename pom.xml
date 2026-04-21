@@ -41,7 +41,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <version.aether>0.9.1.v20140329</version.aether>
+        <version.aether>1.1.0</version.aether>
         <version.maven>3.2.1</version.maven>
         <version.wagon>2.6</version.wagon>
         <version.slf4j>1.7.6</version.slf4j>
